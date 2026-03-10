@@ -1,2 +1,5 @@
-# C-Programming
-Just a normal girl, learning C programming, balancing bugs, logic, and curiosity, one program at a time. 
+
+💻 Learning C Programming
+🐍 Practicing Python coding on HackerRank
+🚀 Building small projects and improving problem-solving
+🔗 HackerRank: https://share.google/GY9WpTOcusoLDMzH1
